@@ -1,0 +1,15 @@
+CPU:
+AMD Ryzen 7 9800X3D
+
+RAM:
+32GB (2x16GB) DDR5 6000 MT/s
+
+Graphics Card:
+NVIDIA GeForce RTX 5070 Ti
+
+Motherboard:
+Gigabyte X870 AORUS ELITE WIFI7 ICE
+
+Operating System:
+Microsoft Windows 11 Pro - Build 26200
+
